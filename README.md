@@ -20,15 +20,15 @@ This repository documents what I’ve learned each day, with real examples, clea
 
 ## 📅 Daily Breakdown
 
-| 📆 Day | 📌 Topics Covered                             | 📁 Folder |
-|-------:|-----------------------------------------------|-----------|
-| ✅ Day 1 | Introduction, Echo, Variables, User Input        | [Day1_Intro_Basics](./Day1_Intro_Basics) |
-| ✅ Day 2 | If-Else, Case, For/While Loops                  | [Day2_Conditionals_Loops](./Day2_Conditionals_Loops) |
-| 🔜 Day 3 | Functions, Script Arguments, Return Values       | Day3_Functions_Args |
-| 🔜 Day 4 | File I/O, Existence Checks, Permissions          | Day4_File_Operations |
-| 🔜 Day 5 | System Commands: Disk, Memory, Process Monitoring | Day5_System_Commands |
-| 🔜 Day 6 | Interactive Menu Scripts                         | Day6_Menu_Scripts |
-| 🔜 Day 7 | Mini Projects: Backup Script, Logs Cleanup       | Day7_Project |
+| 📆 Day | 📌 Topics Covered                                 | 📁 Folder |
+|-------:|--------------------------------------------------|-----------|
+| ✅ Day 1 | Introduction, Echo, Variables, User Input          | [Day1_Intro_Basics](./Day1_Intro_Basics) |
+| ✅ Day 2 | If-Else, Case, For/While Loops                    | [Day2_Conditionals_Loops](./Day2_Conditionals_Loops) |
+| ✅ Day 3 | Functions, Script Arguments, Return Values         | [Day3_Functions_Args](./Day3_Functions_Args) |
+| 🔜 Day 4 | File I/O, Existence Checks, Permissions            | Day4_File_Operations |
+| 🔜 Day 5 | System Commands: Disk, Memory, Process Monitoring  | Day5_System_Commands |
+| 🔜 Day 6 | Interactive Menu Scripts                           | Day6_Menu_Scripts |
+| 🔜 Day 7 | Mini Projects: Backup Script, Logs Cleanup         | Day7_Project |
 
 ---
 
