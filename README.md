@@ -26,7 +26,7 @@ This repository documents what I’ve learned each day, with real examples, clea
 | ✅ Day 4 | File I/O, Existence Checks, Permissions             | [Day4_File_Operations](./Day4_File_Operations) |
 | ✅ Day 5 | System Commands: Disk, Memory, Process Monitoring   | [Day5_System_Commands](./Day5_System_Commands) |
 | ✅ Day 6 | Interactive Menu Scripts                            | [Day6_Menu_Scripts](./Day6_Menu_Scripts) |
-| 🔜 Day 7 | Mini Projects: Backup Script, Logs Cleanup          | Day7_Project |
+| ✅ Day 7 | Mini Projects: Backup Script, Logs Cleanup          | Day7_Project |
 
 
 ## 📂 Repository Structure
